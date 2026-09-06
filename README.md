@@ -36,6 +36,10 @@ This project uses student-related data to analyze performance patterns and build
 
 The main objective of this project is to use machine learning techniques to analyze student data and predict academic performance.
 
+## 📊 Model Performance
+
+The Random Forest Classifier achieved an accuracy of **83.33%** on the test dataset.
+
 ## ▶️ How to Run
 
 1. Download or clone this repository.
